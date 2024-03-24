@@ -1,3 +1,16 @@
+Esse é um projeto para o Curso de Análise e Desenvolvimento de Sistemas da Faculdade Impacta de Tecnologia!
+Eu criei um projeto usando o Framework Next.js. Para rodar o projeto localmente, é necessário instalar o Nextjs.
+
+A ideia é entregar três funcionaliades em um projeto:
+
+- Login
+- Registro
+- Criar um evento
+
+Entregue:
+Feature 1 - "Login com Githhub"
+
+---------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
