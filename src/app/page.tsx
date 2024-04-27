@@ -5,7 +5,9 @@ import { signIn } from "next-auth/react"
 export default function Home() {
     return (
         <main className="flex justify-center items-center h-screen">
-           <Button onClick={() => signIn('github',{callbackUrl:"/app"})}>Login com GitHub</Button>
+           <Button onClick={() => signIn('github',{callbackUrl:"/app"})}>
+            Login com GitHub</Button>
         </main>
     )
 }
+
