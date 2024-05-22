@@ -6,8 +6,7 @@
 
 DATABASE_URL="postgresql://postgres:RIYvmARxNUpHahPEYJOskInaXXoWUMuN@roundhouse.proxy.rlwy.net:25988/railway"
 
-GITHUB_ID=7413fb4364339dc09afb
-GITHUB_SECRET=824e335180309c9d7c54a46afc2bbaabbe0c03a0
-
+GITHUB_ID=*******************
+GITHUB_SECRET=***************
 NEXTAUTH_URL=http://localhost:3000/api/auth
-NEXTAUTH_SECRET=C4Umi+TYOCJ6B8IcnxZvjnUYPpU6TbXANH/786AXrvY=
+NEXTAUTH_SECRET=***********************
